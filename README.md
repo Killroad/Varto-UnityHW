@@ -37,11 +37,11 @@ No merging into `master` is done unless explicitly needed - this helps avoid per
 
 ## ✅ Progress
 
-| Homework | Branch  | Folder         | Status    | Description       |
-|----------|---------|----------------|-----------|-------------------|
-| 01       | `hw/01` | `Assets/HW01/` | ⬜ Planned | [ Short summary…] |
-| 02       | `hw/02` | `Assets/HW02/` | ⬜ Planned |                   |
-| 03       | `hw/03` | `Assets/HW03/` | ⬜ Planned |                   |
+| Homework | Branch  | Folder         | Status    | Description                                                                                                                                                                                                                                                                                                                                       |
+|----------|---------|----------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01       | `hw/01` | `Assets/HW01/` | ✅ Done    | 1. Create a new Unity project with a scene named "HomeWork_01".<br/> 2. Add a controllable "Player" object with left/right movement (W/A/S/D keys) and an "Enemy" object that falls using physics.<br/> 3. Implement collision detection between them with a debug message.<br/> (Optional: auto-generate all objects and components via script.) |
+| 02       | `hw/02` | `Assets/HW02/` | ⬜ Planned |                                                                                                                                                                                                                                                                                                                                                   |
+| 03       | `hw/03` | `Assets/HW03/` | ⬜ Planned |                                                                                                                                                                                                                                                                                                                                                   |
 
 ## 🚀 Quick Start
 
